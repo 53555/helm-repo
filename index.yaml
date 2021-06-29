@@ -3,7 +3,17 @@ entries:
   api-gateway:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-29T16:22:30.4872883+05:30"
+    created: "2021-06-29T19:24:34.0819954+05:30"
+    description: A Helm chart for fleetman api-gateway
+    digest: 2afafc44bbc27b12c3b41086a5bc9fb5900a825ce100768a305a6bf8b4abd6c1
+    name: api-gateway
+    type: application
+    urls:
+    - api-gateway-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-29T19:24:34.0812422+05:30"
     description: A Helm chart for fleetman api-gateway
     digest: d4bf9d62883dec794adcf23eedd1aca2677ce7a0d9bca0044e9e2fc4e1c9ff48
     name: api-gateway
@@ -14,7 +24,16 @@ entries:
   position-simulator:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-29T16:22:30.488539+05:30"
+    created: "2021-06-29T19:24:34.0836706+05:30"
+    description: A Helm chart for fleetman position-simulator
+    digest: b3441ce8817a6178839c6e0148e35ab49af6039db8e1bdefc27697159bd48608
+    name: position-simulator
+    urls:
+    - position-simulator-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-29T19:24:34.0827957+05:30"
     description: A Helm chart for fleetman position-simulator
     digest: 3e8a4e453e29afdb89c1cac9b596c6cc2191c404ae079ffca4853ff4071f7081
     name: position-simulator
@@ -24,7 +43,17 @@ entries:
   position-tracker:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-29T16:22:30.4897112+05:30"
+    created: "2021-06-29T19:24:34.0855329+05:30"
+    description: A Helm chart for fleetman position-tracker
+    digest: 47c78e8aa7b5e1ebbe2234105872d37e65d106fd169887513f7f4b0127212ee2
+    name: position-tracker
+    type: application
+    urls:
+    - position-tracker-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-29T19:24:34.0845325+05:30"
     description: A Helm chart for fleetman position-tracker
     digest: f01340799e73f430bd8508455c5662a95f53455669d37c7fe0c53a7994c1ebaa
     name: position-tracker
@@ -35,7 +64,17 @@ entries:
   queue:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-29T16:22:30.4908839+05:30"
+    created: "2021-06-29T19:24:34.0871988+05:30"
+    description: A Helm chart for fleetman queue
+    digest: bf47bc255a6f983251592b3e27bac657b418733252bf7dc026fe1c1eb483c7b7
+    name: queue
+    type: application
+    urls:
+    - queue-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-29T19:24:34.0863758+05:30"
     description: A Helm chart for fleetman queue
     digest: 6902ab7d2319ec6c06a30f0da39c7711fd66aa8da5ba926bb6e9c6849a8bd541
     name: queue
@@ -46,7 +85,17 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-29T16:22:30.4920208+05:30"
+    created: "2021-06-29T19:24:34.0890408+05:30"
+    description: A Helm chart for fleetman webapp
+    digest: c59a3654f16624c26c99b11884a5bfa37d5540aa1be40676c88f54461c9c52c0
+    name: webapp
+    type: application
+    urls:
+    - webapp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-29T19:24:34.0881155+05:30"
     description: A Helm chart for fleetman webapp
     digest: 42c4c6ad8479982209725cbfdc8b0caabbb00045d5f1f2945b900f432b484e91
     name: webapp
@@ -54,4 +103,4 @@ entries:
     urls:
     - webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-29T16:22:30.4853343+05:30"
+generated: "2021-06-29T19:24:34.0801537+05:30"
